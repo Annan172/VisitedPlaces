@@ -36,8 +36,8 @@ Each test validates that:
 There are no records of any knmown issues within the website and if any are found, feel free to contact me below
 
 ## Contact Info
-Annan172 - Github.
-everettannan@gmail.com
+#Github: Annan172
+#everettannan@gmail.com
 
 ## Author
 **Annan Rapando**
