@@ -13,20 +13,31 @@ Visited Places is a simple web application that allows users to keep track of pl
 Click on the website url below
 https://annan172.github.io/VisitedPlaces/
 
-##Behavior Driven Development
+## Behavior Driven Development
 | Behavior              | Input                                    | Output                 |
 | --------------------- | ---------------------------------------- | ---------------------- |
 | Create a new place    | Location, landmarks, time of year, notes | Place object created   |
 | Store multiple places | Multiple place objects                   | Places saved in a list |
 | Display place details | Click place name                         | Place details shown    |
 
+## Tests
+
+The business logic was developed using Test-Driven Development (TDD).
+Each test validates that:
+
+-A place object is created correctly
+
+-Properties are stored accurately
+
+-Multiple places can be tracked
+
 ## Known Issues
 
 There are no records of any knmown issues within the website and if any are found, feel free to contact me below
 
 ## Contact Info
--Annan172 - Github
--everettannan@gmail.com
+Annan172 - Github.
+everettannan@gmail.com
 
 ## Author
 **Annan Rapando**
