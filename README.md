@@ -37,6 +37,7 @@ There are no records of any knmown issues within the website and if any are foun
 
 ## Contact Info
 Github: Annan172
+
 Email: everettannan@gmail.com
 
 ## Author
