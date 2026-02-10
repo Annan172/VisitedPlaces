@@ -20,9 +20,13 @@ https://annan172.github.io/VisitedPlaces/
 | Store multiple places | Multiple place objects                   | Places saved in a list |
 | Display place details | Click place name                         | Place details shown    |
 
+## Known Issues
+
+There are no records of any knmown issues within the website and if any are found, feel free to contact me below
+
 ## Contact Info
--**Annan172 - Github**
--**everettannan@gmail.com**
+-Annan172 - Github
+-everettannan@gmail.com
 
 ## Author
 **Annan Rapando**
