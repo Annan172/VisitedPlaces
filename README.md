@@ -20,7 +20,7 @@ https://annan172.github.io/VisitedPlaces/
 | Store multiple places | Multiple place objects                   | Places saved in a list |
 | Display place details | Click place name                         | Place details shown    |
 
-##Contact Info
+## Contact Info
 -**Annan172 - Github**
 -**everettannan@gmail.com**
 
