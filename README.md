@@ -13,8 +13,6 @@ Visited Places is a simple web application that allows users to keep track of pl
 Click on the website url below
 https://annan172.github.io/VisitedPlaces/
 
-
-
 ##Behavior Driven Development
 | Behavior              | Input                                    | Output                 |
 | --------------------- | ---------------------------------------- | ---------------------- |
@@ -22,8 +20,9 @@ https://annan172.github.io/VisitedPlaces/
 | Store multiple places | Multiple place objects                   | Places saved in a list |
 | Display place details | Click place name                         | Place details shown    |
 
-
-
+##Contact Info
+**Annan172 - Github**
+**everettannan@gmail.com**
 
 ## Author
 **Annan Rapando**
